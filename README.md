@@ -1,4 +1,4 @@
-# Teaching machines to tell part numbers (product IDs) apart
+# Teaching machines to tell product IDs apart
 
 ## What's in a name?
 
