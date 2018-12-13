@@ -21,4 +21,5 @@ This repository is an attempt to build a machine learning model that can sort pa
 
 ## Results
 
-You can see the results in the [Jupyter notebook](parts-distributor-sku-classifier.ipnb).
+- [Part 1: Prep the data and train the neural network](parts-distributor-sku-classifier-part-1.ipynb)
+- [Part 2: Analyze the results and consider possible improvements to the model](parts-distributor-sku-classifier-part-2-explore.ipynb)
