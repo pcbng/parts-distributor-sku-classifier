@@ -22,9 +22,3 @@ This repository is an attempt to build a machine learning model that can sort pa
 ## Results
 
 You can see the results in the [Jupyter notebook](parts-distributor-sku-classifier.ipnb).
-
-## Run it yourself
-
-You need jupyter, keras, tensorflow, graphviz and numpy.
-
-...TBD...
