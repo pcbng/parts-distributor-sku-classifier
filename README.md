@@ -4,7 +4,7 @@
 
 Electronic parts distributors like Digi-Key, Mouser etc assign their own internal IDs (known as a SKU, or "stock keeping unit") to every product they sell, which is usually different from the "part number" that manufacturers assign to their own products.
 
-For example, `SN74LVC541APWR` is a part number identifying a particular IC made by Texas Instruments. Digi-Key's assigned SKU for it is `296-8521-1-ND`. Mouser calls it `595-SN74LVC541APWR`.
+For example, [`SN74LVC541APWR`](https://www.ti.com/store/ti/en/p/product?p=SN74LVC541APWR) is a part number identifying a particular IC made by Texas Instruments. Digi-Key's assigned SKU for it is [`296-8521-1-ND`](https://www.digikey.com/products/en?keywords=296-8521-1-ND). Mouser calls it [`595-SN74LVC541APWR`](https://www.mouser.com/Search/Refine.aspx?Keyword=595-SN74LVC541APWR).
 
 Here are a few more - can you tell which one came from where?
 - `2N2222AUA`
